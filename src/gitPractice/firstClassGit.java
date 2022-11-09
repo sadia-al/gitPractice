@@ -9,4 +9,7 @@ public class firstClassGit {
 		
 	}
 
+	public void test() {
+		System.out.print("hellow ");
+	}
 }
